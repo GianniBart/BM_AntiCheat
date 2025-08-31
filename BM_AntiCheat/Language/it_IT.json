@@ -1,0 +1,25 @@
+{
+    "LanguageID": "10",
+    "VentCheat": " ha tentato di espellere da più ventole in un click!",
+    "PrincipalMessage": "Attenzione, rivelato sospetto Cheat, Continuare comporterà il ban immediato!",
+    "TaskCheat": " sta completando le task troppo velocemente! Rilevata potenziale cheat.",
+    "KillCheat": " ha tentato di uccidere senza essere impostore!",
+    "VentCheat1": " sta usando le botole senza poterle usare",
+    "ShapeCheat": " sta mutando senza essere mutaforma",
+    "VanishCheat": " sta diventando visibile/invisibile senza essere spettro",
+    "ChatCheat": " sta usando piu caratteri consentiti in chat! Rilevata potenziale cheat.",
+    "SnapToCheat": "sta usando il teletrasporto! Rilevata potenziale cheat.",
+    "DoorsCheat": " sta tentando di chiudere le porte! Rilevata potenziale cheat",
+    "ClooseMeetingCheat": " sta tentando di chiudere il meeting! Rilevata potenziale cheat",
+    "ColorCheat": " sta tentando di cambiare colore con un rpc! Rilevata potenziale cheat",
+    "NameCheat": " sta tentando di cambiare nome con un rpc! Rilevata potenziale cheat",
+    "RoleCheat": " sta tentando di cambiare ruolo! Rilevata potenziale cheat",
+    "SabotageCheat": " ha attivato un sabotaggio illegalmente",
+    "MoveDuringMeetingCheat": " si è mosso durante la riunione!",
+    "AnonimousCheat": "Cheater non identificato sta chiudendo le porte!",
+    "PlayerSuspect": "ATTENZIONE. {0} è presente nella lista dei sospetti.",
+    "kickCheater": "Espelli Cheater",
+    "banCheater": "Banna Cheater",
+    "SentWarning": "Invia avviso in chat"
+
+}

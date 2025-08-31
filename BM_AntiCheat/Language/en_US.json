@@ -1,0 +1,24 @@
+{
+    "LanguageID": "0",
+    "VentCheat": " attempted a vent eject with a single click!",
+    "PrincipalMessage": "Warning, suspected cheat detected, continuing will result in immediate ban!",
+    "TaskCheat": " is completing tasks too quickly! Potential cheat detected.",
+    "KillCheat": " tried to kill without being the impostor!",
+    "VentCheat1": " is using vents without permission",
+    "ShapeCheat": " is shapeshifting without being a shapeshifter",
+    "VanishCheat": " is becoming visible/invisible without being a ghost",
+    "ChatCheat": " is using more allowed characters in chat! Potential cheat detected.",
+    "SnapToCheat": " is using teleport! Potential cheat detected.",
+    "DoorsCheat": " is trying to close doors! Potential cheat detected.",
+    "ClooseMeetingCheat": " is trying to close the meeting! Potential cheat detected.",
+    "ColorCheat": " is trying to change color with an RPC! Potential cheat detected.",
+    "NameCheat": " is trying to change name with an RPC! Potential cheat detected.",
+    "RoleCheat": " is trying to change role! Potential cheat detected.",
+    "SabotageCheat": " illegally activated sabotage",
+    "MoveDuringMeetingCheat": " moved during the meeting!",
+    "AnonimousCheat": " Unidentified cheater is closing doors!",
+    "kickCheater": "Kick Cheater",
+    "banCheater": "Ban Cheater",
+    "SentWarning": "Send warning in chat"
+
+}

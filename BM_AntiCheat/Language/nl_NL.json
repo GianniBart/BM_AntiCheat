@@ -1,0 +1,24 @@
+{
+    "LanguageID": "6",
+    "VentCheat": " probeerde door meerdere ventielen in één klik af te voeren!",
+    "PrincipalMessage": "Waarschuwing, verdachte cheat gedetecteerd, doorgaan resulteert in onmiddellijke ban!",
+    "TaskCheat": " voltooit taken te snel! Mogelijke cheat gedetecteerd.",
+    "KillCheat": " probeerde te doden zonder bedrieger te zijn!",
+    "VentCheat1": " gebruikt ventilaties zonder toestemming",
+    "ShapeCheat": " verandert van vorm zonder een shapeshifter te zijn",
+    "VanishCheat": " wordt zichtbaar/onzichtbaar zonder een geest te zijn",
+    "ChatCheat": " gebruikt meer toegestane tekens in chat! Mogelijke cheat gedetecteerd.",
+    "SnapToCheat": " gebruikt teleport! Mogelijke cheat gedetecteerd.",
+    "DoorsCheat": " probeert deuren te sluiten! Mogelijke cheat gedetecteerd.",
+    "ClooseMeetingCheat": " probeert de vergadering te sluiten! Mogelijke cheat gedetecteerd.",
+    "ColorCheat": " probeert kleur te veranderen met een RPC! Mogelijke cheat gedetecteerd.",
+    "NameCheat": " probeert naam te veranderen met een RPC! Mogelijke cheat gedetecteerd.",
+    "RoleCheat": " probeert rol te veranderen! Mogelijke cheat gedetecteerd.",
+    "SabotageCheat": " heeft sabotage illegaal geactiveerd",
+    "MoveDuringMeetingCheat": " bewoog tijdens de vergadering!",
+    "AnonimousCheat": " Ongeïdentificeerde cheater sluit deuren!",
+    "kickCheater": "Spammer verwijderen",
+    "banCheater": "Spammer verbannen",
+    "SentWarning": "Waarschuwing in chat verzenden"
+
+}

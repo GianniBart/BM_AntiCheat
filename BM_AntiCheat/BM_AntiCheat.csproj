@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <LangVersion>latest</LangVersion>
+        <VersionPrefix>1.0.0</VersionPrefix>
+        <Description>AntiCheat</Description>
+        <Authors>Gianni</Authors>
+    </PropertyGroup>
+	<ItemGroup>
+		<EmbeddedResource Include=".\Language\**" />
+	</ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="AmongUs.GameLibs.Steam" Version="2025.4.15" />
+		<PackageReference Include="BepInEx.IL2CPP.MSBuild" Version="2.1.0-rc.1" />
+		<PackageReference Include="BepInEx.Unity.IL2CPP" Version="6.0.0-be.704" Private="false" ExcludeAssets="runtime;native" />
+	</ItemGroup>
+	
+    <Target Name="Copy" AfterTargets="Build">
+		<Copy SourceFiles="$(TargetPath)" DestinationFolder="C:\Users\Gianni\Desktop" UseSymboliclinksIfPossible="true" />
+	</Target>
+</Project>

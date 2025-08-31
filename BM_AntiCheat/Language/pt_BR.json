@@ -1,0 +1,24 @@
+{
+    "LanguageID": "2",
+    "VentCheat": " tentou ejetar por uma ventilação com um único clique!",
+    "PrincipalMessage": "Aviso, cheat suspeito detectado, continuar resultará em banimento imediato!",
+    "TaskCheat": " está completando as tarefas muito rápido! Cheat potencial detectado.",
+    "KillCheat": " tentou matar sem ser impostor!",
+    "VentCheat1": " está usando as entradas de ventilação sem permissão",
+    "ShapeCheat": " está mudando de forma sem ser um metamorfose",
+    "VanishCheat": " está ficando visível/invisível sem ser um fantasma",
+    "ChatCheat": " está usando mais caracteres permitidos no chat! Cheat potencial detectado.",
+    "SnapToCheat": " está usando teletransporte! Cheat potencial detectado.",
+    "DoorsCheat": " está tentando fechar as portas! Cheat potencial detectado.",
+    "ClooseMeetingCheat": " está tentando fechar a reunião! Cheat potencial detectado.",
+    "ColorCheat": " está tentando mudar a cor com um RPC! Cheat potencial detectado.",
+    "NameCheat": " está tentando mudar o nome com um RPC! Cheat potencial detectado.",
+    "RoleCheat": " está tentando mudar o papel! Cheat potencial detectado.",
+    "SabotageCheat": " ativou sabotagem ilegalmente",
+    "MoveDuringMeetingCheat": " se moveu durante a reunião!",
+    "AnonimousCheat": " Cheater não identificado está fechando as portas!",
+    "kickCheater": "Expulsar trapaceiro",
+    "banCheater": "Banir trapaceiro",
+    "SentWarning": "Enviar aviso no chat"
+
+}

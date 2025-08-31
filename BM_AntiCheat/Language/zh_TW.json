@@ -1,0 +1,24 @@
+{
+    "LanguageID": "14",
+    "VentCheat": "嘗試透過一次點擊將玩家從通風口彈出！",
+    "PrincipalMessage": "警告，檢測到可疑作弊，繼續將導致立即封禁！",
+    "TaskCheat": "任務完成速度過快！檢測到潛在作弊。",
+    "KillCheat": "試圖在不是內鬼的情況下殺人！",
+    "VentCheat1": "未經許可使用通風口",
+    "ShapeCheat": "未變形者變形",
+    "VanishCheat": "未成為幽靈卻變得可見/不可見",
+    "ChatCheat": "聊天中使用了超出允許的字符！檢測到潛在作弊。",
+    "SnapToCheat": "使用傳送！檢測到潛在作弊。",
+    "DoorsCheat": "試圖關閉門！檢測到潛在作弊。",
+    "ClooseMeetingCheat": "試圖關閉會議！檢測到潛在作弊。",
+    "ColorCheat": "試圖通過RPC更改顏色！檢測到潛在作弊。",
+    "NameCheat": "試圖通過RPC更改名稱！檢測到潛在作弊。",
+    "RoleCheat": "試圖更改角色！檢測到潛在作弊。",
+    "SabotageCheat": "非法啟動了破壞",
+    "MoveDuringMeetingCheat": "會議期間移動！",
+    "AnonimousCheat": "未識別的作弊者正在關閉門！",
+    "kickCheater": "踢出作弊者",
+    "banCheater": "封鎖作弊者",
+    "SentWarning": "在聊天中發送警告"
+
+}

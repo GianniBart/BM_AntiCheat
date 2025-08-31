@@ -1,0 +1,24 @@
+{
+    "LanguageID": "4",
+    "VentCheat": "이 한 번의 클릭으로 여러 통풍구를 이용해 강제 퇴장하려 했습니다!",
+    "PrincipalMessage": "경고, 의심스러운 치트 감지됨, 계속하면 즉시 밴됩니다!",
+    "TaskCheat": " 작업을 너무 빨리 완료하고 있습니다! 잠재적 치트 감지.",
+    "KillCheat": " 임포스터가 아닌데 살해를 시도했습니다!",
+    "VentCheat1": " 허가 없이 통풍구를 사용하고 있습니다",
+    "ShapeCheat": " 변신자가 아닌데 변신하고 있습니다",
+    "VanishCheat": " 유령이 아닌데 보이고/사라지고 있습니다",
+    "ChatCheat": " 채팅에서 허용된 문자보다 더 많이 사용하고 있습니다! 잠재적 치트 감지.",
+    "SnapToCheat": " 텔레포트를 사용하고 있습니다! 잠재적 치트 감지.",
+    "DoorsCheat": " 문을 닫으려고 시도하고 있습니다! 잠재적 치트 감지.",
+    "ClooseMeetingCheat": " 회의를 닫으려고 시도하고 있습니다! 잠재적 치트 감지.",
+    "ColorCheat": " RPC로 색상을 바꾸려고 시도하고 있습니다! 잠재적 치트 감지.",
+    "NameCheat": " RPC로 이름을 바꾸려고 시도하고 있습니다! 잠재적 치트 감지.",
+    "RoleCheat": " 역할을 바꾸려고 시도하고 있습니다! 잠재적 치트 감지.",
+    "SabotageCheat": " 불법적으로 사보타주를 활성화했습니다",
+    "MoveDuringMeetingCheat": " 회의 중에 움직였습니다!",
+    "AnonimousCheat": " 신원 미상의 치터가 문을 닫고 있습니다!",
+    "kickCheater": "치터 추방",
+    "banCheater": "치터 차단",
+    "SentWarning": "채팅에 경고 보내기"
+
+}

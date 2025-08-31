@@ -1,0 +1,24 @@
+{
+    "LanguageID": "8",
+    "VentCheat": " a tenté d'éjecter par la ventilation en un seul clic !",
+    "PrincipalMessage": "Attention, triche suspectée détectée, continuer entraînera un bannissement immédiat !",
+    "TaskCheat": " termine les tâches trop rapidement ! Triche potentielle détectée.",
+    "KillCheat": " a tenté de tuer sans être imposteur !",
+    "VentCheat1": " utilise les conduits sans permission",
+    "ShapeCheat": " change de forme sans être un métamorphe",
+    "VanishCheat": " devient visible/invisible sans être un fantôme",
+    "ChatCheat": " utilise plus de caractères autorisés dans le chat ! Triche potentielle détectée.",
+    "SnapToCheat": " utilise la téléportation ! Triche potentielle détectée.",
+    "DoorsCheat": " tente de fermer les portes ! Triche potentielle détectée.",
+    "ClooseMeetingCheat": " tente de fermer la réunion ! Triche potentielle détectée.",
+    "ColorCheat": " tente de changer la couleur avec un RPC ! Triche potentielle détectée.",
+    "NameCheat": " tente de changer le nom avec un RPC ! Triche potentielle détectée.",
+    "RoleCheat": " tente de changer de rôle ! Triche potentielle détectée.",
+    "SabotageCheat": " a activé un sabotage illégalement",
+    "MoveDuringMeetingCheat": " s'est déplacé pendant la réunion !",
+    "AnonimousCheat": " Un tricheur non identifié ferme les portes !",
+    "kickCheater": "Expulser le tricheur",
+    "banCheater": "Bannir le tricheur",
+    "SentWarning": "Envoyer un avertissement dans le chat"
+
+}

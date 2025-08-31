@@ -1,0 +1,24 @@
+{
+    "LanguageID": "12",
+    "VentCheat": " intentó expulsar por ventilación con un solo clic!",
+    "PrincipalMessage": "Atención, sospecha de trampa detectada, continuar resultará en baneo inmediato!",
+    "TaskCheat": " está completando las tareas demasiado rápido! Posible trampa detectada.",
+    "KillCheat": " intentó matar sin ser impostor!",
+    "VentCheat1": " está usando las trampillas sin permiso",
+    "ShapeCheat": " está cambiando de forma sin ser cambiaformas",
+    "VanishCheat": " está volviéndose visible/invisible sin ser fantasma",
+    "ChatCheat": " está usando más caracteres permitidos en chat! Posible trampa detectada.",
+    "SnapToCheat": " está usando teletransporte! Posible trampa detectada.",
+    "DoorsCheat": " está intentando cerrar las puertas! Posible trampa detectada.",
+    "ClooseMeetingCheat": " está intentando cerrar la reunión! Posible trampa detectada.",
+    "ColorCheat": " está intentando cambiar de color con un RPC! Posible trampa detectada.",
+    "NameCheat": " está intentando cambiar de nombre con un RPC! Posible trampa detectada.",
+    "RoleCheat": " está intentando cambiar de rol! Posible trampa detectada.",
+    "SabotageCheat": " activó un sabotaje ilegalmente",
+    "MoveDuringMeetingCheat": " se movió durante la reunión!",
+    "AnonimousCheat": " Tramposo no identificado está cerrando las puertas!",
+    "kickCheater": "Expulsar tramposo",
+    "banCheater": "Prohibir tramposo",
+    "SentWarning": "Enviar advertencia en el chat"
+
+}

@@ -1,0 +1,24 @@
+{
+    "LanguageID": "9",
+    "VentCheat": " hat versucht, per Vent einen Rausschmiss mit einem Klick durchzuführen!",
+    "PrincipalMessage": "Warnung, verdächtiger Cheat entdeckt, Fortfahren führt zu sofortigem Bann!",
+    "TaskCheat": " erledigt Aufgaben zu schnell! Potenzieller Cheat erkannt.",
+    "KillCheat": " hat versucht zu töten, ohne der Impostor zu sein!",
+    "VentCheat1": " benutzt Lüftungsschächte ohne Erlaubnis",
+    "ShapeCheat": " verwandelt sich, ohne ein Gestaltwandler zu sein",
+    "VanishCheat": " wird sichtbar/unsichtbar, ohne Geist zu sein",
+    "ChatCheat": " benutzt mehr erlaubte Zeichen im Chat! Potenzieller Cheat erkannt.",
+    "SnapToCheat": " benutzt Teleport! Potenzieller Cheat erkannt.",
+    "DoorsCheat": " versucht Türen zu schließen! Potenzieller Cheat erkannt.",
+    "ClooseMeetingCheat": " versucht das Meeting zu schließen! Potenzieller Cheat erkannt.",
+    "ColorCheat": " versucht Farbe mit RPC zu ändern! Potenzieller Cheat erkannt.",
+    "NameCheat": " versucht Namen mit RPC zu ändern! Potenzieller Cheat erkannt.",
+    "RoleCheat": " versucht Rolle zu ändern! Potenzieller Cheat erkannt.",
+    "SabotageCheat": " hat Sabotage illegal aktiviert",
+    "MoveDuringMeetingCheat": " hat sich während des Meetings bewegt!",
+    "AnonimousCheat": " Unbekannter Cheater schließt Türen!",
+    "kickCheater": "Cheater kicken",
+    "banCheater": "Cheater bannen",
+    "SentWarning": "Warnung im Chat senden"
+
+}
